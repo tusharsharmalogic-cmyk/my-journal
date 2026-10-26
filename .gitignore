@@ -1,0 +1,6 @@
+kv_store/
+.nomedia
+__pycache__/
+*.pyc
+settings.json
+.DS_Store
